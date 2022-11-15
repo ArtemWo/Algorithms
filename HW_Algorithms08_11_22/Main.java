@@ -1,8 +1,7 @@
 package HW_Algorithms.HW_Algorithms08_11_22;
 
-public class Main {
-    public static void main(String[] args) {
-        class GFG {
+
+        class XxX {
             static void towerOfHanoi(int n, char from_rod,
                                      char to_rod, char aux_rod) {
                 if (n == 0) {
@@ -21,7 +20,6 @@ public class Main {
 
                 // A, B and C are names of rods
                 towerOfHanoi(N, 'A', 'C', 'B');
-            }
-        }
+            
     }
 }
