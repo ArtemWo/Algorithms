@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1000&pause=1000&color=F70E3F&width=435&lines=DZ+Java)](https://github.com/ArtemWo/Algorithms)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1000&pause=1000&color=F70E3F&width=435&lines=DZ+Algorithms)](https://github.com/ArtemWo/Algorithms)
 - -   [HWA2022_10_25](https://github.com/ArtemWo/Algorithms/tree/master/HWA2022_10_25) 
 - -   [HWA2022_11_01](https://github.com/ArtemWo/Algorithms/tree/master/HWA2022_11_01) 
 - -   [HW08_11_22](https://github.com/ArtemWo/Algorithms/tree/master/HW_Algorithms08_11_22p) 
