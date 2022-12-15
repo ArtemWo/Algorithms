@@ -4,4 +4,4 @@
 - -   [HW08_11_22](https://github.com/ArtemWo/Algorithms/tree/master/HW_Algorithms08_11_22p) 
 - -   [HW21_11_22](https://github.com/ArtemWo/Algorithms/tree/master/HW_Algorithms21_11_22) 
 - -   [HW29_11_22](https://github.com/ArtemWo/Algorithms/tree/master/HW_Algorithms29_11_22) 
-- -   [HW6_12_22]() 
+- -   [HW6_12_22](https://github.com/ArtemWo/Algorithms/tree/master/HW_Algorithms06_12_2022) 
